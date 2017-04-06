@@ -1,0 +1,11 @@
+Davis Smith
+I worked by myself
+
+Controls:
+WASD to change camera position
+ZXC to increment roll/yaw/pitch
+shift+z/x/c to decrement angle
+
+f1 - set perspective to projection
+f2 - set perspective to orthogonal
+f3 - reset position, rotation, and target
